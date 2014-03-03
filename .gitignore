@@ -1,4 +1,4 @@
 *.pid
 *.pyc
 *.swp
-output/
+output/index.html
